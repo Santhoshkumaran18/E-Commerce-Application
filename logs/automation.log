@@ -1,0 +1,92 @@
+2025-04-06 12:12:06 INFO  TC001_AccountRegistrationTest:26 - Starting the Account Registration Page Test
+2025-04-06 12:12:06 INFO  TC001_AccountRegistrationTest:31 - Clicking on Register button
+2025-04-06 12:12:07 INFO  TC001_AccountRegistrationTest:35 - Enter the details in the registration page
+2025-04-06 12:12:08 INFO  TC001_AccountRegistrationTest:48 - Click on continue button
+2025-04-06 12:12:09 INFO  TC001_AccountRegistrationTest:53 - Validating the success message
+2025-04-06 12:12:10 INFO  TC001_AccountRegistrationTest:64 - Test got completed Successfully
+2025-04-06 12:30:51 INFO  TC001_AccountRegistrationTest:29 - Starting the Account Registration Page Test
+2025-04-06 12:30:51 INFO  TC001_AccountRegistrationTest:34 - Clicking on Register button
+2025-04-06 12:30:52 INFO  TC001_AccountRegistrationTest:38 - Enter the details in the registration page
+2025-04-06 12:30:53 INFO  TC001_AccountRegistrationTest:51 - Click on continue button
+2025-04-06 12:30:54 INFO  TC001_AccountRegistrationTest:56 - Validating the success message
+2025-04-06 12:30:54 INFO  TC001_AccountRegistrationTest:67 - Test got completed Successfully
+2025-04-06 12:31:58 INFO  TC001_AccountRegistrationTest:29 - Starting the Account Registration Page Test
+2025-04-06 12:31:58 INFO  TC001_AccountRegistrationTest:34 - Clicking on Register button
+2025-04-06 12:31:59 INFO  TC001_AccountRegistrationTest:38 - Enter the details in the registration page
+2025-04-06 12:32:01 INFO  TC001_AccountRegistrationTest:29 - Starting the Account Registration Page Test
+2025-04-06 12:32:01 INFO  TC001_AccountRegistrationTest:51 - Click on continue button
+2025-04-06 12:32:03 INFO  TC001_AccountRegistrationTest:56 - Validating the success message
+2025-04-06 12:32:06 ERROR TC001_AccountRegistrationTest:62 - Test failed
+2025-04-06 12:32:47 INFO  TC001_AccountRegistrationTest:29 - Starting the Account Registration Page Test
+2025-04-06 12:32:47 INFO  TC001_AccountRegistrationTest:29 - Starting the Account Registration Page Test
+2025-04-06 12:32:47 INFO  TC001_AccountRegistrationTest:34 - Clicking on Register button
+2025-04-06 12:32:47 INFO  TC001_AccountRegistrationTest:34 - Clicking on Register button
+2025-04-06 12:32:52 ERROR TC001_AccountRegistrationTest:62 - Test failed
+2025-04-06 12:33:29 INFO  TC001_AccountRegistrationTest:29 - Starting the Account Registration Page Test
+2025-04-06 12:33:29 INFO  TC001_AccountRegistrationTest:34 - Clicking on Register button
+2025-04-06 12:33:30 INFO  TC001_AccountRegistrationTest:38 - Enter the details in the registration page
+2025-04-06 12:33:31 INFO  TC001_AccountRegistrationTest:51 - Click on continue button
+2025-04-06 12:33:32 INFO  TC001_AccountRegistrationTest:56 - Validating the success message
+2025-04-06 12:33:32 INFO  TC001_AccountRegistrationTest:67 - Test got completed Successfully
+2025-04-06 12:33:35 INFO  TC001_AccountRegistrationTest:29 - Starting the Account Registration Page Test
+2025-04-06 12:33:35 INFO  TC001_AccountRegistrationTest:34 - Clicking on Register button
+2025-04-06 12:33:36 INFO  TC001_AccountRegistrationTest:38 - Enter the details in the registration page
+2025-04-06 12:33:37 INFO  TC001_AccountRegistrationTest:51 - Click on continue button
+2025-04-06 12:33:38 INFO  TC001_AccountRegistrationTest:56 - Validating the success message
+2025-04-06 12:33:38 INFO  TC001_AccountRegistrationTest:67 - Test got completed Successfully
+2025-04-06 12:35:52 ERROR TC001_AccountRegistrationTest:62 - Test failed
+2025-04-06 12:36:51 INFO  TC001_AccountRegistrationTest:29 - Starting the Account Registration Page Test
+2025-04-06 12:36:51 INFO  TC001_AccountRegistrationTest:29 - Starting the Account Registration Page Test
+2025-04-06 12:36:51 INFO  TC001_AccountRegistrationTest:34 - Clicking on Register button
+2025-04-06 12:36:51 INFO  TC001_AccountRegistrationTest:34 - Clicking on Register button
+2025-04-06 12:36:56 ERROR TC001_AccountRegistrationTest:62 - Test failed
+2025-04-06 12:37:18 INFO  TC001_AccountRegistrationTest:29 - Starting the Account Registration Page Test
+2025-04-06 12:37:18 INFO  TC001_AccountRegistrationTest:29 - Starting the Account Registration Page Test
+2025-04-06 12:37:19 INFO  TC001_AccountRegistrationTest:34 - Clicking on Register button
+2025-04-06 12:37:19 INFO  TC001_AccountRegistrationTest:34 - Clicking on Register button
+2025-04-06 12:37:24 ERROR TC001_AccountRegistrationTest:62 - Test failed
+2025-04-06 12:38:19 INFO  TC001_AccountRegistrationTest:29 - Starting the Account Registration Page Test
+2025-04-06 12:38:20 INFO  TC001_AccountRegistrationTest:34 - Clicking on Register button
+2025-04-06 12:38:21 INFO  TC001_AccountRegistrationTest:29 - Starting the Account Registration Page Test
+2025-04-06 12:38:22 INFO  TC001_AccountRegistrationTest:38 - Enter the details in the registration page
+2025-04-06 12:38:22 INFO  TC001_AccountRegistrationTest:34 - Clicking on Register button
+2025-04-06 12:38:32 ERROR TC001_AccountRegistrationTest:62 - Test failed
+2025-04-06 12:39:56 ERROR TC001_AccountRegistrationTest:62 - Test failed
+2025-04-06 12:40:12 INFO  TC001_AccountRegistrationTest:29 - Starting the Account Registration Page Test
+2025-04-06 12:40:12 INFO  TC001_AccountRegistrationTest:29 - Starting the Account Registration Page Test
+2025-04-06 12:40:12 INFO  TC001_AccountRegistrationTest:34 - Clicking on Register button
+2025-04-06 12:40:12 INFO  TC001_AccountRegistrationTest:34 - Clicking on Register button
+2025-04-06 12:40:17 ERROR TC001_AccountRegistrationTest:62 - Test failed
+2025-04-06 12:40:17 ERROR TC001_AccountRegistrationTest:62 - Test failed
+2025-04-06 12:40:24 ERROR TC001_AccountRegistrationTest:62 - Test failed
+2025-04-06 12:41:32 ERROR TC001_AccountRegistrationTest:62 - Test failed
+2025-04-06 12:42:22 INFO  TC001_AccountRegistrationTest:29 - Starting the Account Registration Page Test
+2025-04-06 12:42:22 INFO  TC001_AccountRegistrationTest:29 - Starting the Account Registration Page Test
+2025-04-06 12:42:22 INFO  TC001_AccountRegistrationTest:34 - Clicking on Register button
+2025-04-06 12:42:22 INFO  TC001_AccountRegistrationTest:34 - Clicking on Register button
+2025-04-06 12:42:27 ERROR TC001_AccountRegistrationTest:62 - Test failed
+2025-04-06 12:42:27 ERROR TC001_AccountRegistrationTest:62 - Test failed
+2025-04-06 12:43:24 INFO  TC001_AccountRegistrationTest:29 - Starting the Account Registration Page Test
+2025-04-06 12:43:25 INFO  TC001_AccountRegistrationTest:34 - Clicking on Register button
+2025-04-06 12:43:26 INFO  TC001_AccountRegistrationTest:38 - Enter the details in the registration page
+2025-04-06 12:43:28 INFO  TC001_AccountRegistrationTest:51 - Click on continue button
+2025-04-06 12:43:28 INFO  TC001_AccountRegistrationTest:29 - Starting the Account Registration Page Test
+2025-04-06 12:43:28 INFO  TC001_AccountRegistrationTest:34 - Clicking on Register button
+2025-04-06 12:43:30 INFO  TC001_AccountRegistrationTest:56 - Validating the success message
+2025-04-06 12:43:30 INFO  TC001_AccountRegistrationTest:67 - Test got completed Successfully
+2025-04-06 12:43:30 INFO  TC001_AccountRegistrationTest:38 - Enter the details in the registration page
+2025-04-06 12:43:31 INFO  TC001_AccountRegistrationTest:51 - Click on continue button
+2025-04-06 12:43:32 INFO  TC001_AccountRegistrationTest:56 - Validating the success message
+2025-04-06 12:43:33 INFO  TC001_AccountRegistrationTest:67 - Test got completed Successfully
+2025-04-06 13:00:50 INFO  TC001_AccountRegistrationTest:29 - Starting the Account Registration Page Test
+2025-04-06 13:00:50 INFO  TC001_AccountRegistrationTest:34 - Clicking on Register button
+2025-04-06 13:00:51 INFO  TC001_AccountRegistrationTest:38 - Enter the details in the registration page
+2025-04-06 13:00:52 INFO  TC001_AccountRegistrationTest:51 - Click on continue button
+2025-04-06 13:00:53 INFO  TC001_AccountRegistrationTest:56 - Validating the success message
+2025-04-06 13:00:53 INFO  TC001_AccountRegistrationTest:67 - Test got completed Successfully
+2025-04-06 13:04:47 INFO  TC001_AccountRegistrationTest:29 - Starting the Account Registration Page Test
+2025-04-06 13:04:47 INFO  TC001_AccountRegistrationTest:34 - Clicking on Register button
+2025-04-06 13:04:48 INFO  TC001_AccountRegistrationTest:38 - Enter the details in the registration page
+2025-04-06 13:04:49 INFO  TC001_AccountRegistrationTest:51 - Click on continue button
+2025-04-06 13:04:50 INFO  TC001_AccountRegistrationTest:56 - Validating the success message
+2025-04-06 13:04:50 INFO  TC001_AccountRegistrationTest:67 - Test got completed Successfully

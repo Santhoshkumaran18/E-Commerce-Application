@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Master Suite Files" thread-count="5">
+	<groups>
+		<run>
+			<include name="Master" />
+			<include name="Sanity"/>
+		</run>
+	</groups>
+	<listeners>
+		<listener class-name="utilities.ExtentReportManager" />
+	</listeners>
+	<test name="Chrome Browser Testing">
+		<parameter name="browser" value="chrome"></parameter>
+		<classes>
+			<class name="testCases.TC001_AccountRegistrationTest" />
+			<class name="testCases.TC002_LoginPageTest" />
+			<class name="testCases.TC003_LoginDataDrivenTest" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
