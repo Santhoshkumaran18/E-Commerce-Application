@@ -170,14 +170,14 @@
                   <span class="method-name">loginData</span>
                   <span class="parameters">(laks@yahoo.com,xyz,Invalid)</span>
                   <div class="stack-trace">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//div[@id=&apos;content&apos;]/h2[text()=&apos;My Account&apos;]&quot;}
-  (Session info: chrome=135.0.7049.41)
+  (Session info: chrome=135.0.7049.42)
 For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Build info: version: &apos;4.30.0&apos;, revision: &apos;509c7f17cc*&apos;
 System info: os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.4.1&apos;
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [1e6de035abe33b15f0b0dee17928142e, findElement {using=xpath, value=//div[@id=&apos;content&apos;]/h2[text()=&apos;My Account&apos;]}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.41, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: C:\Users\SSANTH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49973}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49973/devtoo..., se:cdpVersion: 135.0.7049.41, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 1e6de035abe33b15f0b0dee17928142e
+Command: [1f67c6af5ef940a16ad6477282fc3559, findElement {using=xpath, value=//div[@id=&apos;content&apos;]/h2[text()=&apos;My Account&apos;]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.42, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:\Users\SSANTH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55229}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55229/devtoo..., se:cdpVersion: 135.0.7049.42, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1f67c6af5ef940a16ad6477282fc3559
 	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
 	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
 	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
@@ -297,6 +297,7 @@ Session ID: 1e6de035abe33b15f0b0dee17928142e
     &lt;listener class-name=&quot;utilities.ExtentReportManager&quot;/&gt;
   &lt;/listeners&gt;
   &lt;test thread-count=&quot;5&quot; name=&quot;Chrome Browser Testing&quot;&gt;
+    &lt;parameter name=&quot;os&quot; value=&quot;windows&quot;/&gt;
     &lt;parameter name=&quot;browser&quot; value=&quot;chrome&quot;/&gt;
     &lt;classes&gt;
       &lt;class name=&quot;testCases.TC001_AccountRegistrationTest&quot;/&gt;
@@ -383,38 +384,38 @@ data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
 data.addRows(7);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'loginData')
-data.setCell(0, 2, 'testCases.TC003_LoginDataDrivenTest')
-data.setCell(0, 3, 10877);
+data.setCell(0, 1, 'verify_account_registration')
+data.setCell(0, 2, 'testCases.TC002_LoginPageTest')
+data.setCell(0, 3, 10505);
 data.setCell(1, 0, 1)
-data.setCell(1, 1, 'verify_account_registration')
-data.setCell(1, 2, 'testCases.TC002_LoginPageTest')
-data.setCell(1, 3, 8469);
+data.setCell(1, 1, 'loginData')
+data.setCell(1, 2, 'testCases.TC003_LoginDataDrivenTest')
+data.setCell(1, 3, 8921);
 data.setCell(2, 0, 2)
 data.setCell(2, 1, 'verify_account_registration')
 data.setCell(2, 2, 'testCases.TC001_AccountRegistrationTest')
-data.setCell(2, 3, 4853);
+data.setCell(2, 3, 6421);
 data.setCell(3, 0, 3)
 data.setCell(3, 1, 'loginData')
 data.setCell(3, 2, 'testCases.TC003_LoginDataDrivenTest')
-data.setCell(3, 3, 3268);
+data.setCell(3, 3, 6306);
 data.setCell(4, 0, 4)
 data.setCell(4, 1, 'loginData')
 data.setCell(4, 2, 'testCases.TC003_LoginDataDrivenTest')
-data.setCell(4, 3, 3264);
+data.setCell(4, 3, 5799);
 data.setCell(5, 0, 5)
 data.setCell(5, 1, 'loginData')
 data.setCell(5, 2, 'testCases.TC003_LoginDataDrivenTest')
-data.setCell(5, 3, 2924);
+data.setCell(5, 3, 5467);
 data.setCell(6, 0, 6)
 data.setCell(6, 1, 'loginData')
 data.setCell(6, 2, 'testCases.TC003_LoginDataDrivenTest')
-data.setCell(6, 3, 2875);
+data.setCell(6, 3, 5343);
 window.suiteTableData['Master_Suite_Files']= { tableData: data, tableDiv: 'times-div-Master_Suite_Files'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 36 seconds</span>
+              <span class="suite-total-time">Total running time: 48 seconds</span>
               <div id="times-div-Master_Suite_Files">
               </div> <!-- times-div-Master_Suite_Files -->
             </div> <!-- times-div -->
@@ -442,64 +443,64 @@ return data;
             <div class="chronological-class">
               <div class="chronological-class-name">testCases.TC001_AccountRegistrationTest</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
-                <span class="method-name">setup(chrome)</span>
+                <span class="method-name">setup(chrome, windows)</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
                 <span class="method-name">verify_account_registration</span>
-                <span class="method-start">4293 ms</span>
+                <span class="method-start">4478 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">9431 ms</span>
+                <span class="method-start">11209 ms</span>
               </div> <!-- configuration-class after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">testCases.TC002_LoginPageTest</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
-                <span class="method-name">setup(chrome)</span>
-                <span class="method-start">9857 ms</span>
+                <span class="method-name">setup(chrome, windows)</span>
+                <span class="method-start">11661 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
                 <span class="method-name">verify_account_registration</span>
-                <span class="method-start">12398 ms</span>
+                <span class="method-start">15809 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">21006 ms</span>
+                <span class="method-start">26543 ms</span>
               </div> <!-- configuration-class after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">testCases.TC003_LoginDataDrivenTest</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
-                <span class="method-name">setup(chrome)</span>
-                <span class="method-start">21300 ms</span>
+                <span class="method-name">setup(chrome, windows)</span>
+                <span class="method-start">26915 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
                 <span class="method-name">loginData(santhosh180218@gmail.com, april2025, Valid)</span>
-                <span class="method-start">25128 ms</span>
+                <span class="method-start">33236 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">loginData(lakshmi@yahoo.com, Laxmi, Valid)</span>
-                <span class="method-start">28561 ms</span>
+                <span class="method-start">38961 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">loginData(laksh@yahoo.com, Lakshmi, Valid)</span>
-                <span class="method-start">31662 ms</span>
+                <span class="method-start">44740 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <img src="failed.png">
                 </img>
                 <span class="method-name">loginData(laks@yahoo.com, xyz, Invalid)</span>
-                <span class="method-start">35091 ms</span>
+                <span class="method-start">50831 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">loginData(testautomationsanthosh@gmail.com, april2025@$, Valid)</span>
-                <span class="method-start">46103 ms</span>
+                <span class="method-start">60054 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">49218 ms</span>
+                <span class="method-start">66671 ms</span>
               </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
