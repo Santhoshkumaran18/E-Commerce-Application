@@ -3,12 +3,14 @@
 <suite name="Cross Browsing Suites" parallel="tests" thread-count="5">
 	<test name="Chrome Browser Testing">
 		<parameter name="browser" value="chrome"></parameter>
+		<parameter name="os" value="windows"></parameter>
 		<classes>
 			<class name="testCases.TC001_AccountRegistrationTest" />
 		</classes>
 	</test> <!-- Test -->
 	<test name="Edge Browser Testing">
 		<parameter name="browser" value="edge"></parameter>
+		<parameter name="os" value="windows"></parameter>
 		<classes>
 			<class name="testCases.TC001_AccountRegistrationTest" />
 		</classes>

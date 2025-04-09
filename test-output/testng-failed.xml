@@ -5,6 +5,7 @@
     <listener class-name="utilities.ExtentReportManager"/>
   </listeners>
   <test thread-count="5" name="Chrome Browser Testing(failed)">
+    <parameter name="os" value="windows"/>
     <parameter name="browser" value="chrome"/>
     <groups>
       <run>
